@@ -6,6 +6,7 @@ use crate::ch5::channel::safe_channel_without_arc::run3;
 mod ch1;
 mod ch2;
 mod ch5;
+mod ch6;
 
 fn main() {
     run_5_6();
